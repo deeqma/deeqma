@@ -92,9 +92,5 @@ Working on hobby projects, expanding my knowledge in backend and frontend, and c
 </p>
 
 ## Contacts
-
-
-### Reach me
-
 - **Email:** [mohamedaliofficiellpost@gmail.com](mailto:mohamedaliofficiellpost@gmail.com)
 - **LinkedIn:** [Mohamed Ali](https://www.linkedin.com/in/mohamed-ali-3b976b261/)

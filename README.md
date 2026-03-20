@@ -1,4 +1,4 @@
-## HI  I'm Mohamed Ali 👋
+## HI 👋
 
 I am a software developer focused on backend development using Java and Spring Framework. I also build and maintain CI/CD automation, handle basic frontend tasks, and monitor applications during and after deployment.
 

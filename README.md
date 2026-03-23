@@ -1,9 +1,6 @@
 ## HI 👋
 
-I am a software developer focused on backend development using Java and Spring Framework. I also build and maintain CI/CD automation, handle basic frontend tasks, and monitor applications during and after deployment.
-
-
-
+I am a software developer focused on backend development using Java and Spring Framework. I also build and maintain CI/CD automation, handle basic frontend tasks, and monitor applications in Production
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deeqma&layout=compact&theme=radical&custom_title=Most+Used)
 
